@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "React Portfolio Website",
+        "description": "A responsive portfolio site built with React, showcasing skills, projects, and contact information.",
+        "tech": [
+            "React",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Node.js Backend API",
+        "description": "A RESTful API server using Node.js and Express, with authentication and dynamic data handling.",
+        "tech": [
+            "Node.js",
+            "Express",
+            "JWT"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Full-Stack E-commerce App",
+        "description": "An end-to-end e-commerce application with user management, product catalog, and payment integration.",
+        "tech": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Stripe"
+        ]
+    }
+]
